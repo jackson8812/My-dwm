@@ -1,4 +1,4 @@
-Screenshot ![](MydwmBase-setup.png)
+Screenshot: ![](MydwmBase-setup.png)
 ## My plan is to update this as I obtain further knowledge. 
 Also I figured this is a good place to put my configs so I can just install the distro and git then have my enviorment already setup.. I may eventually create an ISO for this _it will probably be debian sid_ for now it's just going to be dwm.
 I'll have some different things for both debian and arch.
