@@ -1,0 +1,11 @@
+bash /home/cody/.screenlayout/the4Kis2Kone.sh &
+picom &
+feh --bg-scale ~/.wallpapers/obito-debian.png &
+dwmblocks &
+nm-applet &
+volumeicon &
+kdeconnect-indicator &
+flameshot &
+diodon &
+start-pulseaudio-x11 &
+xautolock -time 10 -locker slock &
